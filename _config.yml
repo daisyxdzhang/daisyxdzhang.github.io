@@ -22,11 +22,11 @@ repository               : "daisyxdzhang/daisyxdzhang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Xiaodong Daisy Zhang"
   pronouns         : "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Climate researcher"
   location         : "Santa Cruz, CA"
-  employer         : "University of California, Santa Cruz"
+  employer         : "UC Santa Cruz"
   uri              : # URL
   email            : "xzhan335@ucsc.edu" 
 
